@@ -1,2 +1,2 @@
 # RMI Simple Calculator
-Simple calculator implemented based on RMI technology in Java.
+Simple calculator implemented with RMI mechanisms in Java.
